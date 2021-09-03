@@ -1,0 +1,26 @@
+{
+    "id": "CA91B493",
+    "path": "~/RP2SAS/index.Rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1630693913552.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "200,0",
+        "scrollLine": "178"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630698320,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630698320815,
+    "read_only": false,
+    "read_only_alternatives": []
+}
