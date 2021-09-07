@@ -1,0 +1,19 @@
+h1:bibliography-book.bib-packages.bib bibliography: [book.bib, packages.bib]
+h1:biblio-style-apalike biblio-style: apalike
+h1:link-citations-yes link-citations: yes
+h1:preface Preface
+h2:who-this-book-is-for Who This Book is For
+h2:prerequisites Prerequisites
+h2:the-spiral-of-success-structure The Spiral of Success Structure
+h2:motivation-for-this-book Motivation for this Book
+h2:features-of-a-bookdown-electronic-book Features of a Bookdown electronic book
+h3:icons Icons
+h3:sharing Sharing
+h3:scrollingpaging Scrolling/Paging
+h2:what-this-book-is-not What this Book is Not
+h3:this-book-is-not-a-statistics-text This Book is Not A Statistics Text
+h3:this-book-does-not-provide-comprehensive-coverage-of-the-sas-or-r-universe This Book Does Not Provide Comprehensive Coverage of the SAS or R Universe
+h2:some-guideposts Some Guideposts
+h2:helpful-tools Helpful Tools
+h3:demonstrations-in-flipbooks Demonstrations in Flipbooks
+
