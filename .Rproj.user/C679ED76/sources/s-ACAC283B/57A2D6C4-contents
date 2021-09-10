@@ -195,11 +195,13 @@ Watch the results of each step.
 
 <!---FLIPBOOK EX 1-->
 
-<iframe style="margin:0 auto; border: solid black;" id="myIframe8" width="763" height="432" 
-src= "https://tataphani.github.io/flipbooks/#1"
-scrolling="no" allowfullscreen loading="lazy">
+<iframe style="margin:0 auto; border: solid black;"  width="763" height="432" 
+src= "https://github.com/tataphani/MINIFLIP/blob/main/across_microflip_1.html" scrolling="no" allowfullscreen loading="lazy">
 
 </iframe>
+
+
+[Flipbook Demo] : (https://flipbookdemo.netlify.app)
 
 <!---FLIPBOOK EX 1-->
 
